@@ -1,0 +1,14 @@
+C:\Users\Rasya Nur\Documents\KULIAH\SEMESTER\5\PBKK\TM 2\Exercise\bin\Debug\net10.0\Exercise.exe
+C:\Users\Rasya Nur\Documents\KULIAH\SEMESTER\5\PBKK\TM 2\Exercise\bin\Debug\net10.0\Exercise.deps.json
+C:\Users\Rasya Nur\Documents\KULIAH\SEMESTER\5\PBKK\TM 2\Exercise\bin\Debug\net10.0\Exercise.runtimeconfig.json
+C:\Users\Rasya Nur\Documents\KULIAH\SEMESTER\5\PBKK\TM 2\Exercise\bin\Debug\net10.0\Exercise.dll
+C:\Users\Rasya Nur\Documents\KULIAH\SEMESTER\5\PBKK\TM 2\Exercise\bin\Debug\net10.0\Exercise.pdb
+C:\Users\Rasya Nur\Documents\KULIAH\SEMESTER\5\PBKK\TM 2\Exercise\obj\Debug\net10.0\Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rasya Nur\Documents\KULIAH\SEMESTER\5\PBKK\TM 2\Exercise\obj\Debug\net10.0\Exercise.AssemblyInfoInputs.cache
+C:\Users\Rasya Nur\Documents\KULIAH\SEMESTER\5\PBKK\TM 2\Exercise\obj\Debug\net10.0\Exercise.AssemblyInfo.cs
+C:\Users\Rasya Nur\Documents\KULIAH\SEMESTER\5\PBKK\TM 2\Exercise\obj\Debug\net10.0\Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Rasya Nur\Documents\KULIAH\SEMESTER\5\PBKK\TM 2\Exercise\obj\Debug\net10.0\Exercise.dll
+C:\Users\Rasya Nur\Documents\KULIAH\SEMESTER\5\PBKK\TM 2\Exercise\obj\Debug\net10.0\refint\Exercise.dll
+C:\Users\Rasya Nur\Documents\KULIAH\SEMESTER\5\PBKK\TM 2\Exercise\obj\Debug\net10.0\Exercise.pdb
+C:\Users\Rasya Nur\Documents\KULIAH\SEMESTER\5\PBKK\TM 2\Exercise\obj\Debug\net10.0\Exercise.genruntimeconfig.cache
+C:\Users\Rasya Nur\Documents\KULIAH\SEMESTER\5\PBKK\TM 2\Exercise\obj\Debug\net10.0\ref\Exercise.dll
