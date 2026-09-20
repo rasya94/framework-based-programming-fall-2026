@@ -1,0 +1,14 @@
+C:\Users\Rasya Nur\Documents\KULIAH\SEMESTER\5\PBKK\TM 3\CalculatorApp\bin\Debug\net10.0-windows\CalculatorApp.exe
+C:\Users\Rasya Nur\Documents\KULIAH\SEMESTER\5\PBKK\TM 3\CalculatorApp\bin\Debug\net10.0-windows\CalculatorApp.deps.json
+C:\Users\Rasya Nur\Documents\KULIAH\SEMESTER\5\PBKK\TM 3\CalculatorApp\bin\Debug\net10.0-windows\CalculatorApp.runtimeconfig.json
+C:\Users\Rasya Nur\Documents\KULIAH\SEMESTER\5\PBKK\TM 3\CalculatorApp\bin\Debug\net10.0-windows\CalculatorApp.dll
+C:\Users\Rasya Nur\Documents\KULIAH\SEMESTER\5\PBKK\TM 3\CalculatorApp\bin\Debug\net10.0-windows\CalculatorApp.pdb
+C:\Users\Rasya Nur\Documents\KULIAH\SEMESTER\5\PBKK\TM 3\CalculatorApp\obj\Debug\net10.0-windows\CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rasya Nur\Documents\KULIAH\SEMESTER\5\PBKK\TM 3\CalculatorApp\obj\Debug\net10.0-windows\CalculatorApp.AssemblyInfoInputs.cache
+C:\Users\Rasya Nur\Documents\KULIAH\SEMESTER\5\PBKK\TM 3\CalculatorApp\obj\Debug\net10.0-windows\CalculatorApp.AssemblyInfo.cs
+C:\Users\Rasya Nur\Documents\KULIAH\SEMESTER\5\PBKK\TM 3\CalculatorApp\obj\Debug\net10.0-windows\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\Rasya Nur\Documents\KULIAH\SEMESTER\5\PBKK\TM 3\CalculatorApp\obj\Debug\net10.0-windows\CalculatorApp.dll
+C:\Users\Rasya Nur\Documents\KULIAH\SEMESTER\5\PBKK\TM 3\CalculatorApp\obj\Debug\net10.0-windows\refint\CalculatorApp.dll
+C:\Users\Rasya Nur\Documents\KULIAH\SEMESTER\5\PBKK\TM 3\CalculatorApp\obj\Debug\net10.0-windows\CalculatorApp.pdb
+C:\Users\Rasya Nur\Documents\KULIAH\SEMESTER\5\PBKK\TM 3\CalculatorApp\obj\Debug\net10.0-windows\CalculatorApp.genruntimeconfig.cache
+C:\Users\Rasya Nur\Documents\KULIAH\SEMESTER\5\PBKK\TM 3\CalculatorApp\obj\Debug\net10.0-windows\ref\CalculatorApp.dll
