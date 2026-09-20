@@ -6,5 +6,11 @@
 
 ## Daftar Repository
 
-> **Tatap Muka 1:** [Empty]  
-> **Tatap Muka 2:** [Repository](./TM%202)
+### TM 1
+> [Empty]
+### TM 2
+> 💻 [GitHub Repository](./TM%202)  
+> 📄 [Blogspot](https://5025241239.blogspot.com/2026/09/pbkk-tm-1.html)
+### TM 3
+> 💻 [GitHub Repository](./TM%203)  
+> 📄 [Blogspot](https://5025241239.blogspot.com/2026/09/pbkk-tm-3.html)
