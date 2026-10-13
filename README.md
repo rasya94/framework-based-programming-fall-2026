@@ -23,7 +23,7 @@
 ### TM 5
 > Membuat eksperimen Studi Kasus Student Management  
 > 💻 [GitHub Repository](./TM%205)  
-> 📄 [Blogspot](https://5025241239.blogspot.com/2026/09/pbkk-tm-5.html)
+> 📄 [Blogspot](https://5025241239.blogspot.com/2026/10/pbkk-tm-5.html)
 ### TM 6
 > Membuat tabel di SQL Server untuk implementasi Studi Kasus Student Management  
 > 💻 [GitHub Repository](./TM%206)  
