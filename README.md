@@ -27,4 +27,4 @@
 ### TM 6
 > Membuat tabel di SQL Server untuk implementasi Studi Kasus Student Management  
 > 💻 [GitHub Repository](./TM%206)  
-> 📄 [Blogspot](https://5025241239.blogspot.com/2026/09/pbkk-tm-6.html)
+> 📄 [Blogspot](https://5025241239.blogspot.com/2026/10/pbkk-tm-6.html)
