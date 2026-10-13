@@ -21,6 +21,10 @@
 > 💻 [GitHub Repository](./TM%204)  
 > 📄 [Blogspot](https://5025241239.blogspot.com/2026/09/pbkk-tm-4.html)
 ### TM 5
-> Membuat tabel di SQL Server untuk implementasi Studi Kasus Student Management  
+> Membuat eksperimen Studi Kasus Student Management  
 > 💻 [GitHub Repository](./TM%205)  
 > 📄 [Blogspot](https://5025241239.blogspot.com/2026/09/pbkk-tm-5.html)
+### TM 6
+> Membuat tabel di SQL Server untuk implementasi Studi Kasus Student Management  
+> 💻 [GitHub Repository](./TM%206)  
+> 📄 [Blogspot](https://5025241239.blogspot.com/2026/09/pbkk-tm-6.html)
