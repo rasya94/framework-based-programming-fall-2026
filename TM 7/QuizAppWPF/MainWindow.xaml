@@ -1,0 +1,52 @@
+<Window x:Class="QuizAppWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="IsiQuiz" Height="760" Width="1120" MinHeight="600" MinWidth="850"
+        WindowStartupLocation="CenterScreen" Background="{StaticResource PageBrush}">
+    <Grid>
+        <Grid x:Name="LoginPanel" Visibility="Visible">
+            <Border Width="890" Padding="38" Background="White" CornerRadius="14" HorizontalAlignment="Center" VerticalAlignment="Center">
+                <StackPanel>
+                    <StackPanel Orientation="Horizontal" VerticalAlignment="Center" Margin="0,0,0,10">
+                        <Image Source="pack://application:,,,/Assets/main_logo.png" Width="48" Height="48" Stretch="Uniform" Margin="0,0,12,0" />
+                        <TextBlock Text="IsiQuiz" FontSize="20" FontWeight="Bold" Foreground="{StaticResource AccentBrush}" VerticalAlignment="Center" />
+                    </StackPanel>
+                    <TextBlock Text="Selamat datang" FontSize="30" FontWeight="Bold" Foreground="#172033" />
+                    <TextBlock Text="Masuk untuk mengerjakan kuis." FontSize="14" Foreground="#667085" Margin="0,8,0,26" />
+                    <TextBlock Text="Username" FontWeight="SemiBold" />
+                    <TextBox x:Name="UsernameBox" Text="student" />
+                    <TextBlock Text="Password" FontWeight="SemiBold" />
+                    <PasswordBox x:Name="PasswordBox" />
+                    <Button Content="Masuk" Click="HandleLogin" Margin="0,10,0,8" />
+                    <TextBlock x:Name="LoginMessage" Foreground="#DC2626" TextWrapping="Wrap" />
+                    <TextBlock Text="Demo: student / student123" Foreground="#98A2B3" FontSize="12" Margin="0,12,0,0" />
+                </StackPanel>
+            </Border>
+        </Grid>
+        <Grid x:Name="MainPanel" Visibility="Collapsed">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Border x:Name="TopHeader" Grid.Row="0" Background="White" Padding="30,12" BorderBrush="#E5E7EB" BorderThickness="0,0,0,1">
+                <DockPanel>
+                    <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                        <Image Source="pack://application:,,,/Assets/main_logo.png" Width="42" Height="42" Stretch="Uniform" Margin="0,0,10,0" />
+                        <TextBlock Text="IsiQuiz" FontSize="22" FontWeight="Bold" Foreground="#172033" VerticalAlignment="Center" />
+                    </StackPanel>
+                    <StackPanel DockPanel.Dock="Right" Orientation="Horizontal" VerticalAlignment="Center">
+                        <Button Content="Keluar" Click="HandleLogout" Margin="4,0" Background="#F3F4F6" Foreground="#374151" />
+                        <TextBlock x:Name="UsernameText" Foreground="#475467" FontSize="12" FontWeight="SemiBold" VerticalAlignment="Center" Margin="12,0,0,0" />
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal" VerticalAlignment="Center" Margin="30,0,0,0">
+                        <Button x:Name="CatalogTab" Content="Katalog kuis" Click="HandleCatalog" Margin="6,0" />
+                        <Button x:Name="HistoryTab" Content="Riwayat" Click="HandleHistory" Margin="6,0" />
+                    </StackPanel>
+                </DockPanel>
+            </Border>
+            <ScrollViewer Grid.Row="1" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Disabled">
+                <StackPanel x:Name="ContentPanel" Margin="38,42" MaxWidth="1500" HorizontalAlignment="Stretch" />
+            </ScrollViewer>
+        </Grid>
+    </Grid>
+</Window>
