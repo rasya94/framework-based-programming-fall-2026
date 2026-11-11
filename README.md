@@ -32,3 +32,7 @@
 > IsiQuiz: Aplikasi kuis local untuk pelaksanaan ulangan   
 > 💻 [GitHub Repository](./TM%207)  
 > 📄 [Blogspot](https://5025241239.blogspot.com/2026/10/pbkk-tm-7.html)
+> ### TM 10
+> Latihan studi kasus "ShopEase" menggunakan Code Igniter   
+> 💻 [GitHub Repository](./TM%2010)  
+> 📄 [Blogspot](https://5025241239.blogspot.com/2026/11/pbkk-tm-10.html)
