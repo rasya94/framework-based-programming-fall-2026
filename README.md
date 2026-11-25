@@ -37,6 +37,6 @@
 > 💻 [GitHub Repository](./TM%2010)  
 > 📄 [Blogspot](https://5025241239.blogspot.com/2026/11/pbkk-tm-10.html)
 ### TM 12
-> Membuat CRUD Dengan CodeIgniter : Menampilkan Data Dari Database, dengan tambahan Create, Update, Delete
+> Membuat CRUD Dengan CodeIgniter : Menampilkan Data Dari Database, dengan tambahan Create, Update, Delete  
 > 💻 [GitHub Repository](./TM%2012)  
-> 📄 [Blogspot](https://5025241239.blogspot.com/2026/11/pbkk-tm-12.html)
+> 📄 [Blogspot](https://5025241239.blogspot.com/2026/11/pbkk-tm-12.html)  
